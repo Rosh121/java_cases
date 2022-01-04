@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="hello.GreeterTest" time="0.006" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="hello.GreeterTest" time="0.007" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\AdoptOpenJDK\jdk-8.0.265.01-hotspot\jre\bin"/>
     <property name="java.vm.version" value="25.265-b01"/>
     <property name="java.vm.vendor" value="AdoptOpenJDK"/>
-    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Shraddha\gs-maven\initial"/>
+    <property name="maven.multiModuleProjectDirectory" value="c:\Users\Shraddha\java_cases"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="path.separator" value=";"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="C:\Users\Shraddha\gs-maven\initial"/>
+    <property name="user.dir" value="c:\Users\Shraddha\java_cases"/>
     <property name="java.runtime.version" value="1.8.0_265-b01"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\AdoptOpenJDK\jdk-8.0.265.01-hotspot\jre\lib\endorsed"/>
@@ -46,7 +46,7 @@
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="C:\Program Files\AdoptOpenJDK\jdk-8.0.265.01-hotspot\jre"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher install"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher package"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="en"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -65,5 +65,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="hello.GreeterTest" name="greeterSaysHello" time="0.006"/>
+  <testcase classname="hello.GreeterTest" name="greeterSaysHello" time="0.007"/>
 </testsuite>
